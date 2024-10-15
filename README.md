@@ -1,4 +1,4 @@
-# Bibliomlaniac de Nathan V.
+# Bibliomaniac de Nathan V.
 
 
 ## Lien Figma
